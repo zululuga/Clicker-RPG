@@ -1,5 +1,6 @@
 # Clicker-RPG
-Um rpg estilo clicker, feito utilizando Javascript:
+Um rpg estilo clicker, feito utilizando Javascript:<br>
+Link direto: https://drolho.github.io/Clicker-RPG/<br>
 ![print](https://raw.githubusercontent.com/Drolho/Clicker-RPG/main/img/print.PNG)
 
 Estou ciente de que o atributo de defesa não está funcional,
